@@ -1,0 +1,28 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RavenRVS/AJS_HW1_T3.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "VitalyRemnev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RavenRVS/AJS_HW1_T3/issues"
+  },
+  "homepage": "https://github.com/RavenRVS/AJS_HW1_T3#readme",
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
